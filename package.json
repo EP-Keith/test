@@ -1,0 +1,20 @@
+{
+  "name": "ep-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": "https://github.com/EP-Keith/test.git",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-swig": "^0.8.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-useref": "^3.1.0"
+  }
+}
